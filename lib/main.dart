@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Row(
                 children: [
                   Text(
-                    '\$50',
+                    'TARIQ TARIQ TIAIRATI+A+IT+AIT+IA+GKGKG{AG}',
                     style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.bold,
@@ -96,6 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
             '$_counter',
             style: Theme.of(context).textTheme.headline4,
           ),
+          Text("This is me tariq"),
         ],
       ),
       floatingActionButton: FloatingActionButton(
@@ -108,3 +109,4 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 //For a little bot, I pack a big punch
 //For a little bot, I pack a big punch
+// hello hello
